@@ -11,7 +11,7 @@ I'm a final-year **Software Engineering** student at the ETSII (Universidad de S
 - 🔭 Working on an **idle bakery game** in Godot 🥐 and about to start a **daily-challenge fitness app** for groups of friends
 - 🌱 Learning about multi-agent systems, CI/CD and game design
 - 📍 Seville, Spain · 🇪🇸 Native · 🇬🇧 English (C1)
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/diego-vicente-095b982a7)
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/diegovicentecamara)
 
 ### ⭐ Featured projects
 
@@ -29,3 +29,4 @@ I'm a final-year **Software Engineering** student at the ETSII (Universidad de S
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=DiegoVicenteCamara&show_icons=true&hide_border=true&bg_color=FFF8F1&title_color=E07B39&icon_color=F4A261&text_color=3B302A&rank_icon=github&count_private=true" alt="GitHub stats" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVicenteCamara&layout=compact&hide_border=true&bg_color=FFF8F1&title_color=E07B39&text_color=3B302A&langs_count=6&hide=html,css,shell" alt="Top languages" />
+
