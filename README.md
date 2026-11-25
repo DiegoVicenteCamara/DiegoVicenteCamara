@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DiegoVicenteCamara/DiegoVicenteCamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Diego 👋
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=E07B39&center=true&vCenter=true&width=600&lines=Software+Engineering+student+%40+Universidad+de+Sevilla;Full-stack+%C2%B7+Java%2C+Spring+Boot+%26+React;Building+AI+agents+and+Godot+games" alt="Software Engineering student · Full-stack · AI agents & Godot games" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+I'm a final-year **Software Engineering** student at the ETSII (Universidad de Sevilla). I like building things that actually work: full-stack web apps, API integrations and, lately, voice-driven AI agents. When I'm away from the keyboard I'm probably climbing 🧗, at the gym or playing a football match ⚽.
+
+- 🔭 Working on an **idle bakery game** in Godot 🥐 and about to start a **daily-challenge fitness app** for groups of friends
+- 🌱 Learning about multi-agent systems, CI/CD and game design
+- 📍 Seville, Spain · 🇪🇸 Native · 🇬🇧 English (C1)
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/diego-vicente-095b982a7)
+
+### ⭐ Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Respuesta**](https://github.com/DiegoVicenteCamara/agente-respuesta) | A voice AI agent you "call" from your browser. It breaks complex tasks into background sub-agents and interrupts you by voice when there's news. | Python · LiveKit · OpenAI Realtime · LangGraph · Celery · Redis |
+| [**Plantitas205**](https://github.com/DiegoVicenteCamara/Plantitas205) | Plant care assistant with watering and light tips based on live weather and your location. | Java 21 · Spring Boot · React · Leaflet · Open-Meteo |
+| [**uvlhub**](https://github.com/DiegoVicenteCamara/uvlhub_practicas) | Team project: a feature-model repository (UVL) integrated with Zenodo. I set up CI/CD with Codacy and automated deploys to Render. | Python · Flask · Docker · GitHub Actions |
+
+### 🛠️ Tech I use
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,react,vite,html,css,redis,docker,git,githubactions,godot&theme=light&perline=14" alt="Java, Spring, Python, FastAPI, JavaScript, React, Vite, HTML, CSS, Redis, Docker, Git, GitHub Actions, Godot" />
+
+### 📊 Stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DiegoVicenteCamara&show_icons=true&hide_border=true&bg_color=FFF8F1&title_color=E07B39&icon_color=F4A261&text_color=3B302A&rank_icon=github&count_private=true" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVicenteCamara&layout=compact&hide_border=true&bg_color=FFF8F1&title_color=E07B39&text_color=3B302A&langs_count=6" alt="Top languages" />
