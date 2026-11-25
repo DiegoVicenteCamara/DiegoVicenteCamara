@@ -2,7 +2,7 @@
 
 # Hi, I'm Diego 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=E07B39&center=true&vCenter=true&width=600&lines=Software+Engineering+student+%40+Universidad+de+Sevilla;Full-stack+%C2%B7+Java%2C+Spring+Boot+%26+React;Building+AI+agents+and+Godot+games" alt="Software Engineering student · Full-stack · AI agents & Godot games" />
+<sub>Software Engineering student @ Universidad de Sevilla · Full-stack · AI agents & Godot games</sub>
 
 </div>
 
@@ -28,4 +28,4 @@ I'm a final-year **Software Engineering** student at the ETSII (Universidad de S
 ### 📊 Stats
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=DiegoVicenteCamara&show_icons=true&hide_border=true&bg_color=FFF8F1&title_color=E07B39&icon_color=F4A261&text_color=3B302A&rank_icon=github&count_private=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVicenteCamara&layout=compact&hide_border=true&bg_color=FFF8F1&title_color=E07B39&text_color=3B302A&langs_count=6" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVicenteCamara&layout=compact&hide_border=true&bg_color=FFF8F1&title_color=E07B39&text_color=3B302A&langs_count=6&hide=html,css,shell" alt="Top languages" />
